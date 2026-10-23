@@ -1,0 +1,73 @@
+/* App */
+"E-Liquid Calculator" = "Калькулятор самозамеса";
+"New Recipe" = "Новый рецепт";
+"New Recipe (⌘N)" = "Новый рецепт (⌘N)";
+"Duplicate" = "Дублировать";
+"Delete" = "Удалить";
+"Delete Recipe" = "Удалить рецепт";
+"Undo Delete" = "Отменить удаление";
+"Undo" = "Отменить";
+"More" = "Ещё";
+
+/* Library */
+"Search Recipes" = "Поиск рецептов";
+"No Saved Recipes" = "Нет сохранённых рецептов";
+"Save the current mix to see it here." = "Сохраните текущий замес, чтобы он появился здесь.";
+"Recipe deleted" = "Рецепт удалён";
+"Library not loaded: %@" = "Библиотека не загружена: %@";
+"Library not saved: %@" = "Библиотека не сохранена: %@";
+"%@ ml · %lld/%lld · %@ mg" = "%1$@ мл · %2$lld/%3$lld · %4$@ мг";
+"Untitled" = "Без названия";
+"%@ (copy)" = "%@ (копия)";
+"%@ (%@ ml)" = "%1$@ (%2$@ мл)";
+"%@ (%@ ml, %@ mg)" = "%1$@ (%2$@ мл, %3$@ мг)";
+
+/* Recipe header */
+"Recipe Name" = "Название рецепта";
+"Draft" = "Черновик";
+"Save as Recipe" = "Сохранить как рецепт";
+"Variant…" = "Вариант…";
+
+/* Calculator */
+"PG / VG ratio" = "Соотношение PG / VG";
+"Drag the slider to set the PG / VG ratio you want." = "Перемещайте ползунок для получения желаемого соотношения PG / VG.";
+"Volume" = "Объём";
+"Final liquid volume (ml)" = "Объём готовой жидкости (мл)";
+"How many ml of finished liquid you want to make." = "Желаемый объём готовой жидкости на выходе в мл.";
+"Nicotine" = "Никотин";
+"Nicotine base strength (mg/ml)" = "Крепость никотиновой основы (мг/мл)";
+"Strength" = "Крепость";
+"mg/ml" = "мг/мл";
+"Strength of your nicotine base in mg/ml and its carrier: PG or VG." = "Крепость вашей никотиновой основы в мг/мл и тип носителя: PG или VG.";
+"Nicotine in the liquid (mg/ml)" = "Содержание никотина в жидкости (мг/мл)";
+"Nicotine strength (mg/ml) you want in the finished liquid." = "Желаемое содержание никотина (мг/мл) в готовой жидкости.";
+"Flavours (%)" = "Ароматизаторы (%)";
+"Flavour %lld" = "Ароматизатор %lld";
+"Add Flavour" = "Добавить ароматизатор";
+"Remove Flavour" = "Удалить ароматизатор";
+"Name" = "Название";
+"%" = "%";
+"Percentage" = "Процент";
+"Carrier" = "Носитель";
+"%@, range %@–%@%%" = "%1$@, диапазон %2$@–%3$@%%";
+
+/* Result table */
+"Your Recipe" = "Ваш рецепт";
+"This recipe does not fit the current PG / VG ratio. Change the ratio or lower the dosages." = "Рецепт невозможно посчитать при текущем соотношении PG / VG. Измените соотношение или уменьшите дозировки.";
+"Component" = "Компонент";
+"ml" = "мл";
+"g" = "г";
+"%@ ml" = "%@ мл";
+"Total" = "Вместе";
+"Weight uses the carrier density: PG 1.036 g/ml, VG 1.261 g/ml." = "Вес считается по плотности носителя: PG 1.036 г/мл, VG 1.261 г/мл.";
+"PG (propylene glycol)" = "PG (пропиленгликоль)";
+"VG (glycerin)" = "VG (глицерин)";
+"Nicotine base" = "Никотиновая основа";
+
+/* Variant sheet */
+"Variant of “%@”" = "Вариант рецепта «%@»";
+"Volume (ml)" = "Объём (мл)";
+"Nicotine (mg/ml)" = "Никотин (мг/мл)";
+"Proportions and flavours stay the same; only the millilitres are recalculated." = "Пропорции и ароматизаторы сохраняются, пересчитываются миллилитры.";
+"Cancel" = "Отмена";
+"Create" = "Создать";
